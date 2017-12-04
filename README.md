@@ -14,8 +14,6 @@ This Postcode Fine App is available to view and register [here.](https://immense
 
 This site uses Google API to return the postcode of any address in the world. The aim of this project was to get more familiar with external APIs, in this case, the Google Maps API, and working with data via this method in a web application.
 
-![Landing Page](../assets/img/my-recipes/home.png)   
-
 ### [](https://github.com/timrooke1991/postcode-finder#features)Features
 
 The Google Maps API return data in an XML format, which gave me exposure to this data format.  I have worked with JSON in the past, but not XML.
