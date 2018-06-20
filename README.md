@@ -6,11 +6,11 @@
 - Fire up `localhost`
 - [GitHub link](https://github.com/timrooke1991/postcode-finder)
 
-This Postcode Fine App is available to view and register [here.](https://immense-beach-64457.herokuapp.com/)
-
-## Project Description
+This Postcode Finder App is available to view [here.](https://immense-beach-64457.herokuapp.com/)
 
 > **Note**: Due to changes in the Google API, the postcodes return are not as details as they originally were when this project was made.
+
+## Project Description
 
 This site uses Google API to return the postcode of any address in the world. The aim of this project was to get more familiar with external APIs, in this case, the Google Maps API, and working with data via this method in a web application.
 
